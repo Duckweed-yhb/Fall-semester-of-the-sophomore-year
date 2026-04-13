@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  9 APR 2026 02:02
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  13 APR 2026 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1070,23 +1070,23 @@ able
 
 ] [11]) (9.拉普拉斯变换.tex [12]
 第七章
-) [13
+[13
 
-] (1.main.aux)
+] [14]) [15] (1.main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `1.main.out' has not changed.
-(rerunfilecheck)             Checksum: 4B4DA033D1A50F5676F9471FCE33302F;4838.
+(rerunfilecheck)             Checksum: 13116671A7B9BF72A64F106CDC1733DB;6525.
  ) 
 Here is how much of TeX's memory you used:
- 17547 strings out of 402987
- 370910 string characters out of 5454526
- 808463 words of memory out of 5000000
- 45977 multiletter control sequences out of 15000+600000
+ 17552 strings out of 402987
+ 371003 string characters out of 5454526
+ 810306 words of memory out of 5000000
+ 45982 multiletter control sequences out of 15000+600000
  638564 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,17n,111p,611b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 1.main.pdf (16 pages).
+Output written on 1.main.pdf (18 pages).

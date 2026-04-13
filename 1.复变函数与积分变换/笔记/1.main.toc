@@ -43,3 +43,18 @@
 \contentsline {subsection}{\numberline {6.2.5}帕塞瓦尔恒等式}{11}{subsection.6.2.5}%
 \contentsline {section}{\numberline {6.3}广义傅里叶变换}{11}{section.6.3}%
 \contentsline {chapter}{\numberline {第七章\hspace {.3em}}拉普拉斯变换}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}拉普拉斯变换的定义}{13}{section.7.1}%
+\contentsline {section}{\numberline {7.2}常用拉普拉斯变换公式}{13}{section.7.2}%
+\contentsline {section}{\numberline {7.3}拉普拉斯变换的性质}{14}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}线性性质}{14}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}相似性质}{14}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}延迟性质与位移性质}{14}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}微分性质}{14}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}积分性质}{14}{subsection.7.3.5}%
+\contentsline {subsection}{\numberline {7.3.6}卷积与卷积定理}{15}{subsection.7.3.6}%
+\contentsline {subsection}{\numberline {7.3.7}初值与终值定理}{15}{subsection.7.3.7}%
+\contentsline {section}{\numberline {7.4}拉普拉斯逆变换}{15}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}反演法（留数法）}{15}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}部分分式法}{15}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}卷积法}{15}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}拉普拉斯变换的应用}{15}{section.7.5}%
